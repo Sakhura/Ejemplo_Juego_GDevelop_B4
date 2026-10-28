@@ -1,0 +1,19 @@
+LUMI Y EL CORAZÓN DE CRISTAL
+Proyecto modelo (nivel Destacado) · Taller de Programación de Videojuegos (800TP06) · IPChile
+
+CÓMO ABRIRLO
+1. Descomprime la carpeta completa (no muevas lumi.json fuera de ella).
+2. En GDevelop 5: Crear > Abrir un proyecto > Tu computadora > selecciona lumi.json.
+3. Presiona "Vista previa" estando en la escena Menu.
+Probado en GDevelop 5.6 (build 284).
+
+CONTROLES
+Flechas: moverse · Espacio o Shift: saltar · E: hablar con Orión · ENTER: menú · Espacio: saltar cinemática
+
+ESTRUCTURA
+lumi.json ................ proyecto (6 escenas: Menu, Nivel1, Transicion, Nivel2, Victoria, FinDelJuego)
+assets/img ............... 62 imágenes PNG (personajes, objetos, 10 fondos de pantalla, HUD)
+assets/snd ............... 19 sonidos OGG (efectos, música incidental, ambiente)
+assets/video ............. cinemática MP4 (H.264 + AAC) entre niveles
+
+Todos los gráficos, sonidos y el video son originales, generados por código para este proyecto.
